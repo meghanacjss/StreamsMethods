@@ -1,0 +1,7 @@
+There are some benefits because of which we use Stream in Java as mentioned below:
+*No Storage
+*Pipeline of Functions
+*Laziness
+*Can be infinite
+*Can be parallelized
+*Can be created from collections, arrays, Files Lines, Methods in Stream, IntStream etc.
